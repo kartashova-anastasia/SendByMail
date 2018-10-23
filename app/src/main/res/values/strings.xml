@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MySendmail</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="view">VIEW</string>
+    <string name="email_input_error">Ошибка ввода данных!</string>
+    <string name="camera_error">"Ваше устройство не поддерживает съемку"</string>
+    <string name="send_by_email">SEND BY EMAIL</string>
+
+</resources>
